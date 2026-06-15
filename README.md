@@ -6,7 +6,7 @@ A web application inspired by Google NotebookLM that allows users to upload PDF 
 
 Here is a short screen recording demonstrating the quiz generator flow:
 
-![Quick Demo](https://drive.google.com/file/d/1Lw4XT9Mp34AYxF0HHxhGUWg8BZXMeTPN/view?usp=drive_link)
+[Watch the Quick Demo Video](https://drive.google.com/file/d/1Lw4XT9Mp34AYxF0HHxhGUWg8BZXMeTPN/view?usp=drive_link)
 
 > [!IMPORTANT]
 > The Gemini API key shown in this demo video has been deleted and is no longer active.
